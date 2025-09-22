@@ -1,28 +1,3 @@
-### 3_Praktikum-Metode-Komputasi
-
-## Apa yang Saya Pelajari
-Dalam tugas ini, saya mempelajari dasar-dasar penggunaan Git dan GitHub.  
-Beberapa hal penting yang saya pelajari antara lain:  
-
-- Cara membuat repository baru di GitHub, lalu menghubungkannya ke lokal dengan perintah `git clone`.  
-- Menambahkan file ke staging area menggunakan `git add`, kemudian menyimpannya ke repository lokal dengan `git commit`.  
-- Mengunggah perubahan dari lokal ke GitHub dengan perintah `git push`.  
-- Membuat serta mengedit file README di GitHub sebagai sarana perkenalan singkat.  
-
-Selain itu, saya juga belajar melakukan *pull request* agar perubahan yang saya lakukan dapat ditinjau dan digabungkan ke repository utama.  
-
-## Apa yang Masih Membingungkan
-- Perbedaan antara `git pull` dan `git fetch`
-- Cara menyelesaikan merge conflict
-- Manajemen branch dalam project besar
-
----
-
-## 2. Profile README
-Sebagai bagian dari tugas ini, saya membuat README untuk profil GitHub saya.  
-README tersebut berisi perkenalan singkat, minat pembelajaran, serta hobi saya.   
-
-```markdown
 # Halo 👋
 Halo semua! 👋 Aku **Artika Zahra Putri Khaznah**.  
 
