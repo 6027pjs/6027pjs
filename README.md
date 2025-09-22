@@ -2,7 +2,7 @@
 Halo semua! 👋 Aku **Artika Zahra Putri Khaznah**.  
 
 suka pake banget **nonton film dan series** 🎬 
-paling suka kalo nonton horor sama fantasy. banyak banget deh favorit filmnya.
+paling suka kalo nonton horor sama fantasy. banyak banget deh favorit filmnya. jangan ditanya udah berapa film/series yang aku tonton
 
 **musik** 🎶. yang aku dengerin juga banyak!!!
 
