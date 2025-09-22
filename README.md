@@ -1,6 +1,8 @@
 # Holahop 👋
 Halo semua! 👋 Aku **Artika Zahra P K**.  
 
+aku asli jogja setengah bogor
+
 suka pake banget **nonton film dan series** 🎬 
 paling suka kalo nonton horor sama fantasy. banyak banget deh favorit filmnya. jangan ditanya udah berapa film/series yang aku tonton.
 
