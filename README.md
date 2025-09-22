@@ -6,7 +6,7 @@ paling suka kalo nonton horor sama fantasy. banyak banget deh favorit filmnya. j
 
 **musik** 🎶. yang aku dengerin juga banyak!!!
 
-terus nih funfactnya aku geli sama kucing :((( Kadang kalo kena dingin aku gampang pilek😅
+terus nih funfactnya aku geli sama kucing :((( kadang kalo kena dingin aku gampang pilek😅
 
 # Check Profil
 📸 Instagram: [@_kktika](https://instagram.com/_kktika)
